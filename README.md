@@ -30,7 +30,7 @@ My Exceptions:
  ## Solve problems on java
  
 
- ## Learn web development
+ ## Learn web development - [day1](#Day-1)
 
  ## Create web projects
 
@@ -69,3 +69,7 @@ My Exceptions:
 	- [x] Greedy - 
 	- ❌ Bit Manipulation
 	- ❌ Mathematical problems
+
+# Day 1
+ - Learned about bootstrap layouts and bootstrap components
+ - 
