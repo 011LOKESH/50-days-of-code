@@ -17,10 +17,19 @@ My Exceptions:
 # Goals
 
   1][Learn JAVA](#LEARNJAVA)<br>
-  2][Solve problems on Data Structures and Algorithms](#SolveproblemsonDataStructuresandAlgorithms)<br>
-
+  2][Solve problems on java](#solveproblemsonjava)<br>
+  3][Learn Web development](#learnwebdevelopment)<br>
+  4][Create web projects](#createwebprojects)<br>
+  5][Solve problems on Data Structures and Algorithms](#SolveproblemsonDataStructuresandAlgorithms)<br>
 
  ##  Learn JAVA
 
  
+ ## Solve problems on java
+ 
+
+ ## Learn web development
+
+ ## Create web projects
+
  ##  Solve problems on Data Structures and Algorithms
