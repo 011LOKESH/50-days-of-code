@@ -1,2 +1,1 @@
-# java_code
-Here's my 50 days of java code 
+50 Days of Code Challenge
