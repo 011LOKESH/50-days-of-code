@@ -21,7 +21,8 @@ My Exceptions:
   2][Solve problems on java](#solveproblemsonjava)<br>
   3][Learn Web development](#learnwebdevelopment)<br>
   4][Create web projects](#createwebprojects)<br>
-  5][Solve problems on Data Structures and Algorithms](#SolveproblemsonDataStructuresandAlgorithms)<br>
+  5][Learn Data Structures and Algorithms ](#LearnDataStructuresandAlgorithms )<br>
+  6][Solve problems on Data Structures and Algorithms](#SolveproblemsonDataStructuresandAlgorithms)<br>
 
  ##  Learn JAVA
 
@@ -33,4 +34,38 @@ My Exceptions:
 
  ## Create web projects
 
+ ## Learn Data Structures and Algorithms
+
  ##  Solve problems on Data Structures and Algorithms
+
+ - [x] Data Structures
+	- [x] Arrays -
+	- [x] Strings - 
+	- [x] HashMaps -
+	- [x] Stacks - 
+	- [x] Queues -
+	- [x] Linked Lists - 
+	- [x] Trees -
+	- [x] Graphs - 
+	- [x] Heaps
+	- [x] Tries
+
+- [x] Algorithms
+	- [x] Sorting - 
+		- [x] Insertion Sort
+		- [x] Selection Sort
+		- [x] Bubble Sort
+		- [x] Count Sort
+		- [x] Merge Sort
+		- [x] Quick Sort
+	- [x] Searching
+		- [x] Linear Search
+		- [x] Binary Search - 
+		- ❌ BFS
+		- ❌ DFS
+	- [x] Recursion, Backtracking - 
+	- [x] Dynamic Programming - 
+	- [x] Two pointers - 
+	- [x] Greedy - 
+	- ❌ Bit Manipulation
+	- ❌ Mathematical problems
