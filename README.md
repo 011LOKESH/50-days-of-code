@@ -16,11 +16,11 @@ My Exceptions:
 
 # Goals
 
-  1][Learn Software Development](#head)<br>
-  2]Solve problems on Data Structures and Algorithms<br>
-  3]Build Projects around Software Development<br>
-  4]Build JU Query platform for university students<br>
-  5]Community Work<br>
+  1][Learn JAVA](#LEARNJAVA)<br>
+  2][Solve problems on Data Structures and Algorithms](#SolveproblemsonDataStructuresandAlgorithms)<br>
 
 
- # head
+ ##  Learn JAVA
+
+ 
+ ##  Solve problems on Data Structures and Algorithms
