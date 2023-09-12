@@ -14,4 +14,10 @@ My Exceptions:
   1]If I break the streak, I will make sure that I won't break it the next day
   2]My Community work, and few emergencies demands to take a day off
 
-# 50DaysOfCode 
+# Goals
+
+  1][Learn Software Development](# 50 Days of Coding Challenge)
+ Solve problems on Data Structures and Algorithms
+ Build Projects around Software Development
+ Build JU Query platform for university students
+ Community Work
