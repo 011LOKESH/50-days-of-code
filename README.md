@@ -6,21 +6,21 @@ After one failed attempts, I'm coming back by publicly committing to the 50-Days
 
 I'm going to follow Two Main Rules:
 
-  1]Code a minimum of an hour every day for the next 50 days.
-  2]Tweet your progress every day with the #100DaysOfCode hashtag
+  1]Code a minimum of an hour every day for the next 50 days.<br>
+  2]Tweet your progress every day with the #50DaysOfCode hashtag
 
 My Exceptions:
 
-  1]If I break the streak, I will make sure that I won't break it the next day
+  1]If I break the streak, I will make sure that I won't break it the next day<br>
   2]My Community work, and few emergencies demands to take a day off
 
 # Goals
 
-    1][Learn Software Development](#head)
-    2]Solve problems on Data Structures and Algorithms
-    3]Build Projects around Software Development
-    4]Build JU Query platform for university students
-    5]Community Work
+  1][Learn Software Development](#head)<br>
+  2]Solve problems on Data Structures and Algorithms<br>
+  3]Build Projects around Software Development<br>
+  4]Build JU Query platform for university students<br>
+  5]Community Work<br>
 
 
  # head
