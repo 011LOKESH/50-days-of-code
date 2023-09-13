@@ -24,7 +24,7 @@ My Exceptions:
   5][Learn Data Structures and Algorithms ](#LearnDataStructuresandAlgorithms )<br>
   6][Solve problems on Data Structures and Algorithms](#SolveproblemsonDataStructuresandAlgorithms)<br>
 
- ##  Learn JAVA
+ ##  Learn JAVA -[day2](#Day-2)
 
  
  ## Solve problems on java
@@ -72,4 +72,5 @@ My Exceptions:
 
 # Day 1
  - Learned about bootstrap layouts and bootstrap components
- - 
+# Day 2
+ -Learned about java basics
