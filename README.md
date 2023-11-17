@@ -74,3 +74,5 @@ My Exceptions:
  - Learned about bootstrap layouts and bootstrap components
 # Day 2
  -Learned about java basics
+# Day 3
+ -Learned about switch case and function ,solved some simple problems in java.
